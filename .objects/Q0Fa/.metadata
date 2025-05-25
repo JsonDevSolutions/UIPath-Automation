@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Chrome Nutrition Platform ™",
+  "Type": "App",
+  "Id": "Q0FalN6qiUmXL4J-m9r6-A",
+  "Reference": "_keqB-O5jECZb9LFWZkIfg/Q0FalN6qiUmXL4J-m9r6-A",
+  "Created": "2025-05-25T14:33:59.9813045Z",
+  "Updated": "2025-05-25T14:33:59.9813045Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

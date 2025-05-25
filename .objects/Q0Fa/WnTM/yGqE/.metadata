@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome Nutrition Platform ™",
+  "Type": "Screen",
+  "Id": "yGqEgE3Jo0a4RIUterJTCg",
+  "Reference": "_keqB-O5jECZb9LFWZkIfg/yGqEgE3Jo0a4RIUterJTCg",
+  "ParentRef": "_keqB-O5jECZb9LFWZkIfg/WnTMGJ66WEiV7wRC3Vw7rg",
+  "Created": "2025-05-25T14:34:00.024528Z",
+  "Updated": "2025-05-25T14:34:00.024528Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

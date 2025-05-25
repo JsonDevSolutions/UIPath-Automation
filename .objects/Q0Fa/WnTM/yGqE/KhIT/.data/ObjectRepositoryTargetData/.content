@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="KIx-Y7YNU0Ohg3mgVqnp2w" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="localhost/guardians/edit.php" DesignTimeRectangle="393, 564, 13, 12" ElementType="CheckBox" FullSelectorArgument="&lt;webctrl id='motherMRN_auto_generate' tag='INPUT' /&gt;" Guid="8222eee4-b899-49f5-a3fd-629ed59850d6" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Nutrition Platform ™' /&gt;" SearchSteps="Selector" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <imageRef attrName="InformativeScreenshot" originalValue="225fbf878772d7630181c8683cebde46.png" xmlns="">0WyMWzhkJcEaFV19C7Nhcug</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
